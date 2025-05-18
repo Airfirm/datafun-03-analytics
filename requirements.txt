@@ -137,23 +137,18 @@
 # Uncomment needed packages below and add more as required for the project.
 
 # Up-to-date package management tools
-# pip
-# setuptools
-# wheel
+pip
+setuptools
+wheel
 
 # Easy logging for monitoring code execution
-# loguru
+loguru
 
 # HTTP requests made simple
 # ======================================================
 # NETWORKING / HTTP
 # ======================================================
 requests
-
-# ======================================================
-# DATA MANIPULATION
-# ======================================================
-# pandas
 
 # Environment variables management
 # python-dotenv
@@ -162,7 +157,7 @@ requests
 # TEXT-TO-SPEECH
 # ======================================================
 # Offline text-to-speech library for Python (1-15 MB)
-# pyttsx3  
+pyttsx3  
 
 # ======================================================
 # JUPYTERLAB (OPTIONAL, NEEDED FOR NOTEBOOKS)
@@ -173,16 +168,16 @@ requests
 # jupyterlab
 
 # Core IPython package that provides an enhanced interactive Python shell (10-15 MB).
-# ipython
+ipython
 
 # Core Jupyter functionality required for running notebooks in VS Code (50-60 MB).
-# jupyter
+jupyter
 
 # Kernel interface for Jupyter notebooks (required for proper kernel registration)
-# ipykernel
+ipykernel
 
 # Interactive widgets (often used in notebooks).
-# ipywidgets
+ipywidgets
 
 # ======================================================
 # EXCEL FILE READING AND WRITING
@@ -243,10 +238,10 @@ requests
 # ======================================================
 
 # Core library for creating visualizations (~30 MB)
-# matplotlib
+matplotlib
 
 # Statistical data visualization library built on matplotlib (~2-5 MB)
-# seaborn
+seaborn
 
 # Interactive plotting library, often used with Shiny apps (~20-25 MB)
 # plotly
@@ -327,4 +322,4 @@ requests
 # uvicorn   
 
 # For request validation and serialization in FastAPI (5-10 MB)
-# pydantic     
+# pydantic 
