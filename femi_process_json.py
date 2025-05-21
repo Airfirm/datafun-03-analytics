@@ -39,7 +39,7 @@ from utils_logger import logger
 # Declare Global Variables
 #####################################
 
-FETCHED_DATA_DIR: str = "example_data"
+FETCHED_DATA_DIR: str = "femi_data"
 PROCESSED_DIR: str = "femi_processed_data"
 
 #####################################
