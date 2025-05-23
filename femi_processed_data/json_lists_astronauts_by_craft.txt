@@ -1,8 +1,8 @@
-Names of Astronauts by spacecraft:
+Number of Astronauts by spacecraft:
 ISS: 9
 Tiangong: 3
 
-Astronauts grouped by spacecraft:
+Astronauts List Name grouped by spacecraft:
 ISS: Oleg Kononenko
 Nikolai Chub
 Tracy Caldwell Dyson

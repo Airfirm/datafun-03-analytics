@@ -145,3 +145,7 @@
 2025-05-23 18:36:32.113 | INFO     | __main__:<module>:156 - Starting JSON processing...
 2025-05-23 18:36:32.119 | INFO     | __main__:process_json_file:149 - Processed JSON file: femi_data\astros.json, Results saved to: femi_processed_data\json_lists_astronauts_by_craft.txt
 2025-05-23 18:36:32.119 | INFO     | __main__:<module>:158 - JSON processing complete.
+2025-05-23 18:46:13.898 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-23 18:46:13.898 | INFO     | __main__:<module>:155 - Starting JSON processing...
+2025-05-23 18:46:13.900 | INFO     | __main__:process_json_file:148 - Processed JSON file: femi_data\astros.json, Results saved to: femi_processed_data\json_lists_astronauts_by_craft.txt
+2025-05-23 18:46:13.900 | INFO     | __main__:<module>:157 - JSON processing complete.

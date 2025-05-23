@@ -1,7 +1,6 @@
 """
 Process a JSON file to count astronauts by spacecraft and save the result.
 Process the JSON file to count the number of astronauts and also list their names on each spacecraft and save the results to a text file.
-
 JSON file is in the format where people is a list of dictionaries with keys "craft" and "name".
 
 {
@@ -84,7 +83,7 @@ def no_of_astronauts_by_craft(file_path: pathlib.Path) -> dict:
         return {} # return an empty dictionary in case of error
     
 # Ascribing each craft to a number of astronauts
-def lists_astronauts_by_craft(file_path: pathlib.Path) -> dict[str, list[str]]:
+def astronaut_list_names_by_craft(file_path: pathlib.Path) -> dict[str, list[str]]:
     """
     Group astronauts by their spacecraft from a JSON file.
     
@@ -131,7 +130,7 @@ def process_json_file():
     craft_counts = no_of_astronauts_by_craft(input_file)
 
     # Get the astronauts by craft
-    astronauts_by_craft_data = lists_astronauts_by_craft(input_file)
+    astronauts_by_craft_data = astronaut_list_names_by_craft(input_file)
 
     # Create the output directory if it doesn't exist
     output_file.parent.mkdir(parents=True, exist_ok=True)
