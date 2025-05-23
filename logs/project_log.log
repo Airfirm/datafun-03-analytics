@@ -41,3 +41,28 @@
 2025-05-20 22:44:55.232 | INFO     | __main__:write_txt_file:80 - Writing data to femi_data\romeo.txt...
 2025-05-20 22:44:55.235 | INFO     | __main__:write_txt_file:84 - SUCCESS: Data written to femi_data\romeo.txt
 2025-05-20 22:44:55.235 | INFO     | __main__:fetch_txt_file:60 - SUCCESS: Text file fetched and saved as romeo.txt
+2025-05-23 16:51:03.739 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-23 16:51:03.740 | INFO     | __main__:<module>:96 - Starting CSV processing...
+2025-05-23 16:51:03.744 | INFO     | __main__:process_csv_file:89 - Processed CSV file: femi_data\2020_happiness.csv, Statistics saved to: femi_processed_data\happiness_ladder_score_stats.txt
+2025-05-23 16:51:03.744 | INFO     | __main__:<module>:98 - CSV processing complete.
+2025-05-23 16:53:33.897 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-23 16:53:33.897 | INFO     | __main__:<module>:96 - Starting CSV processing...
+2025-05-23 16:53:33.899 | INFO     | __main__:process_csv_file:89 - Processed CSV file: femi_data\2020_happiness.csv, Statistics saved to: femi_processed_data\happiness_ladder_score_stats.txt
+2025-05-23 16:53:33.899 | INFO     | __main__:<module>:98 - CSV processing complete.
+2025-05-23 16:59:39.704 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-23 16:59:39.705 | INFO     | __main__:<module>:96 - Starting CSV processing...
+2025-05-23 16:59:39.706 | INFO     | __main__:process_csv_file:89 - Processed CSV file: femi_data\2020_happiness.csv, Statistics saved to: femi_processed_data\happiness_ladder_score_stats.txt
+2025-05-23 16:59:39.707 | INFO     | __main__:<module>:98 - CSV processing complete.
+2025-05-23 17:04:32.330 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-23 17:04:32.330 | INFO     | __main__:<module>:96 - Starting CSV processing...
+2025-05-23 17:04:32.333 | INFO     | __main__:<module>:98 - CSV processing complete.
+2025-05-23 17:12:39.776 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-23 17:12:39.777 | INFO     | __main__:<module>:96 - Starting CSV processing...
+2025-05-23 17:12:39.779 | INFO     | __main__:process_csv_file:89 - Processed CSV file: femi_data\2020_happiness.csv, Statistics saved to: femi_processed_data\healthy_life_expectancy_stats.txt
+2025-05-23 17:12:39.780 | INFO     | __main__:process_csv_file:89 - Processed CSV file: femi_data\2020_happiness.csv, Statistics saved to: femi_processed_data\logged_gdp_per_capita_stats.txt
+2025-05-23 17:12:39.780 | INFO     | __main__:<module>:98 - CSV processing complete.
+2025-05-23 17:16:46.308 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-23 17:16:46.309 | INFO     | __main__:<module>:99 - Starting CSV processing...
+2025-05-23 17:16:46.311 | INFO     | __main__:process_csv_file:91 - Processed Healthy life expectancy statistics saved to: femi_processed_data\healthy_life_expectancy_stats.txt
+2025-05-23 17:16:46.311 | INFO     | __main__:process_csv_file:91 - Processed Logged GDP per capita statistics saved to: femi_processed_data\logged_gdp_per_capita_stats.txt
+2025-05-23 17:16:46.312 | INFO     | __main__:<module>:101 - CSV processing complete.

@@ -1,0 +1,5 @@
+Healthy life expectancy Statistics:
+Minimum: 45.20
+Maximum: 76.80
+Mean: 64.45
+Standard Deviation: 7.06

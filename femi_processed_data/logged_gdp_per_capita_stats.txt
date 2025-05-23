@@ -1,0 +1,5 @@
+Logged GDP per capita Statistics:
+Minimum: 6.49
+Maximum: 11.45
+Mean: 9.30
+Standard Deviation: 1.20
