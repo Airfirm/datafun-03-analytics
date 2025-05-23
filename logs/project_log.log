@@ -66,3 +66,7 @@
 2025-05-23 17:16:46.311 | INFO     | __main__:process_csv_file:91 - Processed Healthy life expectancy statistics saved to: femi_processed_data\healthy_life_expectancy_stats.txt
 2025-05-23 17:16:46.311 | INFO     | __main__:process_csv_file:91 - Processed Logged GDP per capita statistics saved to: femi_processed_data\logged_gdp_per_capita_stats.txt
 2025-05-23 17:16:46.312 | INFO     | __main__:<module>:101 - CSV processing complete.
+2025-05-23 17:42:22.759 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-23 17:42:22.760 | INFO     | __main__:<module>:80 - Starting Excel processing...
+2025-05-23 17:42:22.782 | INFO     | __main__:process_excel_file:73 - Processed Excel file: femi_data\Feedback.xlsx, Word count saved to: femi_processed_data\excel_feedback_assignments_count.txt
+2025-05-23 17:42:22.783 | INFO     | __main__:<module>:82 - Excel processing complete.

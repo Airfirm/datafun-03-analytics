@@ -1,0 +1,1 @@
+Number of times the word 'assignments' occurs in column E: 8
