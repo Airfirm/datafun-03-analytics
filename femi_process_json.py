@@ -138,10 +138,10 @@ def process_json_file():
     
     # Open the output file in write mode and write the results
     with output_file.open('w') as file:
-        file.write("Names of Astronauts by spacecraft:\n")
+        file.write("Number of Astronauts by spacecraft:\n")
         for craft, count in craft_counts.items():
             file.write(f"{craft}: {count}\n")
-        file.write("\nAstronauts grouped by spacecraft:")
+        file.write("\nAstronauts List Name grouped by spacecraft:")
         for craft, astronauts in astronauts_by_craft_data.items():
             file.write(f"\n{craft}: {'\n'.join(astronauts)}\n")
     
