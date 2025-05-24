@@ -1,5 +1,5 @@
 """
-Process a text file to count occurrences of the word "Romeo" and save the result.
+Process a text file to count occurrences of the word "Samson" and save the result.
 """
 
 #####################################
@@ -40,16 +40,12 @@ def count_word_occurrences(file_path: pathlib.Path, word: str) -> int:
 def process_text_file():
     """Read a text file, count occurrences of 'Romeo', and save the result."""
  
-    # TODO: Replace with path to your text data file
     input_file = pathlib.Path(FETCHED_DATA_DIR, "romeo.txt")
 
-    # TODO: Replace with path to your text processed file
-    output_file = pathlib.Path(PROCESSED_DIR, "text_romeo_word_count.txt")
+    output_file = pathlib.Path(PROCESSED_DIR, "text_samson_word_count.txt")
 
-    # TODO: Replace with the word you want to count from your text file
-    word_to_count: str = "Romeo"
+    word_to_count: str = "Samson"
 
-    # TODO: Make any necessary changes to the logic
     word_count: int = count_word_occurrences(input_file, word_to_count)
 
     # Create the output directory if it doesn't exist
@@ -57,7 +53,6 @@ def process_text_file():
 
     # Write the results to the output file
     with output_file.open('w') as file:
-        # TODO: Update the output to describe your results
         file.write(f"Occurrences of '{word_to_count}': {word_count}\n")
     
     # Log the processing of the TEXT file

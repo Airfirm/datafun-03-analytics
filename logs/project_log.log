@@ -149,3 +149,36 @@
 2025-05-23 18:46:13.898 | INFO     | __main__:<module>:155 - Starting JSON processing...
 2025-05-23 18:46:13.900 | INFO     | __main__:process_json_file:148 - Processed JSON file: femi_data\astros.json, Results saved to: femi_processed_data\json_lists_astronauts_by_craft.txt
 2025-05-23 18:46:13.900 | INFO     | __main__:<module>:157 - JSON processing complete.
+2025-05-23 18:51:27.703 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-23 18:51:27.703 | INFO     | __main__:<module>:65 - Starting text processing...
+2025-05-23 18:51:27.727 | INFO     | __main__:process_text_file:58 - Processed text file: femi_data\romeo.txt, Word count saved to: femi_processed_data\text_sleeps_word_count.txt
+2025-05-23 18:51:27.727 | INFO     | __main__:<module>:67 - Text processing complete.
+2025-05-23 18:52:35.408 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-23 18:52:35.408 | INFO     | __main__:<module>:65 - Starting text processing...
+2025-05-23 18:52:35.410 | INFO     | __main__:process_text_file:58 - Processed text file: femi_data\romeo.txt, Word count saved to: femi_processed_data\text_God_word_count.txt
+2025-05-23 18:52:35.410 | INFO     | __main__:<module>:67 - Text processing complete.
+2025-05-23 18:58:42.639 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-23 18:58:42.639 | INFO     | __main__:<module>:67 - Starting text processing...
+2025-05-23 18:58:42.640 | ERROR    | __main__:count_word_occurrences:37 - Error reading text file: 'list' object has no attribute 'lower'
+2025-05-23 18:58:42.641 | INFO     | __main__:process_text_file:60 - Processed text file: femi_data\romeo.txt, Word count saved to: femi_processed_data\text_God_word_count.txt
+2025-05-23 18:58:42.641 | INFO     | __main__:<module>:69 - Text processing complete.
+2025-05-23 19:02:37.625 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-23 19:02:37.625 | INFO     | __main__:<module>:67 - Starting text processing...
+2025-05-23 19:02:37.626 | ERROR    | __main__:count_word_occurrences:37 - Error reading text file: 'list' object has no attribute 'lower'
+2025-05-23 19:02:37.627 | INFO     | __main__:process_text_file:60 - Processed text file: femi_data\romeo.txt, Word count saved to: femi_processed_data\text_God_word_count.txt
+2025-05-23 19:02:37.627 | INFO     | __main__:<module>:69 - Text processing complete.
+2025-05-23 19:05:21.727 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-23 19:05:21.728 | INFO     | __main__:<module>:67 - Starting text processing...
+2025-05-23 19:05:21.729 | ERROR    | __main__:count_word_occurrences:37 - Error reading text file: 'list' object has no attribute 'lower'
+2025-05-23 19:10:24.002 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-23 19:10:24.002 | INFO     | __main__:<module>:155 - Starting JSON processing...
+2025-05-23 19:10:24.004 | INFO     | __main__:process_json_file:148 - Processed JSON file: femi_data\astros.json, Results saved to: femi_processed_data\json_lists_astronauts_by_craft.txt
+2025-05-23 19:10:24.004 | INFO     | __main__:<module>:157 - JSON processing complete.
+2025-05-23 19:10:46.542 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-23 19:10:46.543 | INFO     | __main__:<module>:155 - Starting JSON processing...
+2025-05-23 19:10:46.544 | INFO     | __main__:process_json_file:148 - Processed JSON file: femi_data\astros.json, Results saved to: femi_processed_data\json_lists_astronauts_by_craft.txt
+2025-05-23 19:10:46.544 | INFO     | __main__:<module>:157 - JSON processing complete.
+2025-05-23 19:11:27.995 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-23 19:11:27.996 | INFO     | __main__:<module>:155 - Starting JSON processing...
+2025-05-23 19:11:27.997 | INFO     | __main__:process_json_file:148 - Processed JSON file: femi_data\astros.json, Results saved to: femi_processed_data\json_lists_astronauts_by_craft.txt
+2025-05-23 19:11:27.997 | INFO     | __main__:<module>:157 - JSON processing complete.
