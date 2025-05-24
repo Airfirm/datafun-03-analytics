@@ -182,3 +182,27 @@
 2025-05-23 19:11:27.996 | INFO     | __main__:<module>:155 - Starting JSON processing...
 2025-05-23 19:11:27.997 | INFO     | __main__:process_json_file:148 - Processed JSON file: femi_data\astros.json, Results saved to: femi_processed_data\json_lists_astronauts_by_craft.txt
 2025-05-23 19:11:27.997 | INFO     | __main__:<module>:157 - JSON processing complete.
+2025-05-23 19:15:42.415 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-23 19:15:42.416 | INFO     | __main__:<module>:66 - Starting text processing...
+2025-05-23 19:15:42.417 | INFO     | __main__:process_text_file:59 - Processed text file: femi_data\romeo.txt, Word count saved to: femi_processed_data\text_samson_word_count.txt
+2025-05-23 19:15:42.417 | INFO     | __main__:<module>:68 - Text processing complete.
+2025-05-23 19:17:48.603 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-23 19:17:48.603 | INFO     | __main__:<module>:66 - Starting text processing...
+2025-05-23 19:17:48.605 | INFO     | __main__:process_text_file:59 - Processed text file: femi_data\romeo.txt, Word count saved to: femi_processed_data\text_samson_word_count.txt
+2025-05-23 19:17:48.605 | INFO     | __main__:<module>:68 - Text processing complete.
+2025-05-23 19:19:00.381 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-23 19:19:00.381 | INFO     | __main__:<module>:66 - Starting text processing...
+2025-05-23 19:19:00.383 | INFO     | __main__:process_text_file:59 - Processed text file: femi_data\romeo.txt, Word count saved to: femi_processed_data\text_samson_word_count.txt
+2025-05-23 19:19:00.383 | INFO     | __main__:<module>:68 - Text processing complete.
+2025-05-23 19:20:36.331 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-23 19:20:36.331 | INFO     | __main__:<module>:66 - Starting text processing...
+2025-05-23 19:20:36.333 | INFO     | __main__:process_text_file:59 - Processed text file: femi_data\romeo.txt, Word count saved to: femi_processed_data\text_sampson_word_count.txt
+2025-05-23 19:20:36.333 | INFO     | __main__:<module>:68 - Text processing complete.
+2025-05-23 19:22:41.071 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-23 19:22:41.071 | INFO     | __main__:<module>:66 - Starting text processing...
+2025-05-23 19:22:41.073 | INFO     | __main__:process_text_file:59 - Processed text file: femi_data\romeo.txt, Word count saved to: femi_processed_data\text_sampson_word_count.txt
+2025-05-23 19:22:41.073 | INFO     | __main__:<module>:68 - Text processing complete.
+2025-05-23 19:26:56.579 | INFO     | utils_logger:<module>:41 - Logging to file: logs\project_log.log
+2025-05-23 19:26:56.579 | INFO     | __main__:<module>:66 - Starting text processing...
+2025-05-23 19:26:56.581 | INFO     | __main__:process_text_file:59 - Processed text file: femi_data\romeo.txt, Word count saved to: femi_processed_data\text_sampson_word_count.txt
+2025-05-23 19:26:56.581 | INFO     | __main__:<module>:68 - Text processing complete.
