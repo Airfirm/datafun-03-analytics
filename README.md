@@ -1,18 +1,3 @@
-# datafun-03-analytics
-""" This is a new repo folder for Python Data Project in Module 3.
-I had created a .gitignore, requirements.txt with external dependency
-'requests' as the content of my requirements file and all other comments 
-commented out!
-
-Author: O S
-
-"""
-
-
-
-
-
-
 """
 File: dirbot_oluwafemi.py
 
